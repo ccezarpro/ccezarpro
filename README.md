@@ -1,66 +1,66 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio - [Seu Nome]</title>
+    <title>Portfolio - Carlos Cezar Nunes</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Carlos Cezar Nunes</h1>
-            <p>Desenvolvedor de TI com 3 anos de experiência | Aprendendo Python</p>
+            <h1>[Your Name]</h1>
+            <p>IT Developer with 3 years of experience | Learning Python</p>
         </div>
     </header>
     <nav>
         <ul>
-            <li><a href="#sobre">Sobre</a></li>
-            <li><a href="#experiencia">Experiência</a></li>
-            <li><a href="#habilidades">Habilidades</a></li>
-            <li><a href="#contato">Contato</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
-    <section id="sobre">
+    <section id="about">
         <div class="container">
-            <h2>Sobre Mim</h2>
-            <p>Olá! Sou um profissional de TI com 3 anos de experiência, atualmente me aprofundando no desenvolvimento em Python. Minha paixão por tecnologia e desenvolvimento de software me motiva a aprender continuamente e a me adaptar às novas tendências e tecnologias.</p>
+            <h2>About Me</h2>
+            <p>Hello! I am an IT professional with 3 years of experience, currently diving into Python development. My passion for technology and software development drives me to continuously learn and adapt to new trends and technologies.</p>
         </div>
     </section>
-    <section id="experiencia">
+    <section id="experience">
         <div class="container">
-            <h2>Experiência</h2>
+            <h2>Experience</h2>
             <ul>
                 <li>
-                    <h3>Analista de TI - [Nome da Empresa]</h3>
-                    <p><strong>Período:</strong> [Data de Início] - Presente</p>
-                    <p>Responsável por [descrever suas responsabilidades e conquistas]</p>
+                    <h3>IT Analyst - [Company Name]</h3>
+                    <p><strong>Period:</strong> [Start Date] - Present</p>
+                    <p>Responsible for perform maintenance on servers, computers and other network-related items. I also carry out cloud innovations</p>
                 </li>
-                <!-- Adicione mais experiências conforme necessário -->
+                <!-- Add more experiences as needed -->
             </ul>
         </div>
     </section>
-    <section id="habilidades">
+    <section id="skills">
         <div class="container">
-            <h2>Habilidades</h2>
+            <h2>Skills</h2>
             <ul>
-                <li>Desenvolvimento em Python</li>
-                <li>Gerenciamento de Sistemas de TI</li>
-                <li>Suporte Técnico</li>
-                <li>Desenvolvimento Web</li>
-                <!-- Adicione mais habilidades conforme necessário -->
+                <li>Python Development</li>
+                <li>IT Systems Management</li>
+                <li>Technical Support</li>
+                <li>Web Development</li>
+                <!-- Add more skills as needed -->
             </ul>
         </div>
     </section>
-    <section id="contato">
+    <section id="contact">
         <div class="container">
-            <h2>Contato</h2>
-            <p>Entre em contato comigo através do e-mail: <a href="mailto:seuemail@example.com">seuemail@example.com</a></p>
+            <h2>Contact</h2>
+            <p>Get in touch with me via email: <a href="mailto:carloscezar859@gmail.com">carloscezar859@gmail.com</a></p>
         </div>
     </section>
     <footer>
         <div class="container">
-            <p>&copy; 2024 [Seu Nome]. Todos os direitos reservados.</p>
+            <p>&copy; 2024 Carlos Cezar Nunes. All rights reserved.</p>
         </div>
     </footer>
 </body>
