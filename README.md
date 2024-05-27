@@ -32,8 +32,8 @@
             <h2>Experience</h2>
             <ul>
                 <li>
-                    <h3>IT Analyst - [Company Name]</h3>
-                    <p><strong>Period:</strong> [Start Date] - Present</p>
+                    <h3>IT Analyst - Bioenergetica Aroeira S/A</h3>
+                    <p><strong>Period:</strong> 03/08/2022 - Present</p>
                     <p>Responsible for perform maintenance on servers, computers and other network-related items. I also carry out cloud innovations</p>
                 </li>
                 <!-- Add more experiences as needed -->
