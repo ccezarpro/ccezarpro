@@ -44,7 +44,7 @@
             <ul>
                 <li>JS Development</li>
                 <li>IT Systems Management</li>
-                <li>HTML5</li>
+                <li>HTML5</li> <img src"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
                 <li>Web Development</li>
                 <li>CSS3</li>
             </ul>
