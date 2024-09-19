@@ -32,10 +32,9 @@
             <ul>
                 <li>
                     <h3>IT Analyst - Bioenergetica Aroeira S/A</h3>
-                    <p><strong>Period:</strong> 03/08/2022 - Present</p>
+                    <p><strong>Period:</strong> 03/08/2022 - 08/22/2024</p>
                     <p>Responsible for perform maintenance on servers, computers and other network-related items. I also carry out cloud innovations</p>
                 </li>
-                <!-- Add more experiences as needed -->
             </ul>
         </div>
     </section>
@@ -47,7 +46,6 @@
                 <li>IT Systems Management</li>
                 <li>Technical Support</li>
                 <li>Web Development</li>
-                <!-- Add more skills as needed -->
             </ul>
         </div>
     </section>
