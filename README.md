@@ -23,7 +23,7 @@
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
-            <p>Hello! I am an IT professional with 3 years of experience, currently diving into Python development. My passion for technology and software development drives me to continuously learn and adapt to new trends and technologies.</p>
+            <p>Hello! I am an IT professional with 3 years of experience, currently diving into JS development. My passion for technology and software development drives me to continuously learn and adapt to new trends and technologies.</p>
         </div>
     </section>
     <section id="experience">
