@@ -42,10 +42,11 @@
         <div class="container">
             <h2>Skills</h2>
             <ul>
-                <li>Python Development</li>
+                <li>JS Development</li>
                 <li>IT Systems Management</li>
-                <li>Technical Support</li>
+                <li>HTML5</li>
                 <li>Web Development</li>
+                <li>CSS3</li>
             </ul>
         </div>
     </section>
