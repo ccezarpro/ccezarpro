@@ -9,7 +9,7 @@
     <header>
         <div class="container">
             <h1>Carlos Cezar Nunes</h1>
-            <p>IT Developer with 3 years of experience | Learning Python</p>
+            <p>IT Developer with 3 years of experience | Learning JS</p>
         </div>
     </header>
     <nav>
